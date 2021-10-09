@@ -1,0 +1,95 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.img-area img{
+	position: absolute;
+	box-shadow: 0 0 3px;
+}
+
+.menu{
+	height: 50px;
+	margin-top: 0px!important;
+	background-color: #000000;
+}
+.nav ul li{
+	display: inline-block;
+	float: left;
+}
+.nav ul li a{
+	color: #fff;
+	font-size: 20px;
+	line-height: 40px;
+	font-family: emoji;
+	margin-left: 15px;
+	text-decoration: none;
+}
+nav{
+	margin-left: 800px;
+}
+/*menu area end*/
+/*slide area start*/
+.slide{
+	height: 400px;
+	background-image: url("Image/f217.jpg");
+	background-repeat: no-repeat;
+}
+.slide h1{
+	font-size: 50px;
+	font-weight: 600px;
+	margin-top: 80px;
+}
+/*slide area end*/
+.welcome h1{
+	font-family: emoji;
+}
+.welcome p{
+	font-size: 19px
+}
+
+.top-area .top-area-start{
+	height: auto;
+	padding: 5px 0px 5px 0px;
+	background-color: #FF7600;
+}
+.Useful ul li{
+	padding-top: 5px;
+}
+.event p{
+	font-size: 16px!important;
+}
+.footer{
+	height: 500px;
+	background-image: url("../img/swami1.jpg");
+	background-repeat: no-repeat;
+}
+.footer1{
+	height: 500px;
+	background-color: #313131;
+	opacity: 0.6;
+}
+.sec-footer ul li a{
+	color: #fff;
+}
+@media(max-width: 600px){
+	.top-header{
+		height: auto;
+		padding-bottom: 10px;
+	}
+	.top-header img{
+		display: block;
+		margin: auto;
+	}
+	.top-header h3{
+		font-size: 20px;
+		text-align: center!important;
+	}
+	.top-header h5{
+		font-size: 18px;
+	}
+	.top-header span{
+		margin-left: 0px!important;
+	}
+}
