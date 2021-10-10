@@ -27,7 +27,7 @@ body{
 	text-decoration: none;
 }
 nav{
-	margin-left: 800px;
+	margin-left: 70%;
 }
 /*menu area end*/
 /*slide area start*/
@@ -61,14 +61,13 @@ nav{
 	font-size: 16px!important;
 }
 .footer{
-	height: 500px;
-	background-image: url("../img/swami1.jpg");
+	height: 400px;
 	background-repeat: no-repeat;
 }
 .footer1{
-	height: 500px;
-	background-color: #313131;
-	opacity: 0.6;
+	height: 400px;
+	background-color: #000000;
+	
 }
 .sec-footer ul li a{
 	color: #fff;
